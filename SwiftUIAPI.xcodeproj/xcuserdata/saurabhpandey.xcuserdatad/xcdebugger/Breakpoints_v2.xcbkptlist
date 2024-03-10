@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E63CBE45-E525-4FAE-BC8A-982C160BEF36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18620583-F2C8-4684-96F6-2F269E459131"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIAPI/SupportStaffViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchSupportStaff()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18620583-F2C8-4684-96F6-2F269E459131 - 34ea68eb1ed95fd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUIAPI.SupportStaffViewModel.fetchSupportStaff() -&gt; ()"
+                  moduleName = "SwiftUIAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhpandey/Desktop/SwiftUIAPI/SwiftUIAPI/SupportStaffViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1204">
+               </Location>
+               <Location
+                  uuid = "18620583-F2C8-4684-96F6-2F269E459131 - 34ea68eb1ed95c1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SwiftUIAPI.SupportStaffViewModel.fetchSupportStaff() -&gt; ()"
+                  moduleName = "SwiftUIAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabhpandey/Desktop/SwiftUIAPI/SwiftUIAPI/SupportStaffViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
